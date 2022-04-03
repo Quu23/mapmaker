@@ -1,0 +1,1 @@
+jre-min\bin\java --enable-preview -jar mapmaker.jar
